@@ -1,5 +1,7 @@
 # JavaScript-curso
-# Professor do Curso: Leonardo Moura Leitao - LinK do Curso: https://www.udemy.com/course/curso-web/
+# Professor do Curso: Leonardo Moura Leitao
+# Link do Curso:
+- https://www.udemy.com/share/1013eS3@VF-IxKAXJpHjnbJ99wZpLw4sMUm8VqjhNhMKh4dh1vQyBprpCmcY1QcFM0h8CHDMmw==/
 # Curso Udemy -  Web Moderno com JavaScript!
 - JavaScript, Node.js, Web, ESNext, HTML5, CSS3, Ajax, Gulp, Webpack, jQuery, Bootsrap, React, VueJS, Angular 9, banco de dados relacional, banco de dados não relacional, Express.
 - Neste curso você vai aprender os 3 principais frameworks do mercado: Angular, React e VUE.
